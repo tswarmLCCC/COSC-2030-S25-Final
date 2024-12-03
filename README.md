@@ -26,7 +26,7 @@ Grading Criteria: Correctness of the card, deck, and hand classes (60%) Correctn
 
 Poker Hands Odds Table
 
-| Poker Hand	   |  No. Ways	| Probability	| Odds against
+| Poker Hand	   |  No. Ways	| Probability	| Odds against |
 | --------       | -------    | --------     | ------- |
  
 | Royal Flush	| 4	| 0.00%	 |  649,739 to 1 |
