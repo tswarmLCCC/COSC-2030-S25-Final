@@ -28,7 +28,6 @@ Poker Hands Odds Table
 
 | Poker Hand	   |  No. Ways	| Probability	| Odds against |
 | --------       | -------    | --------     | ------- |
- 
 | Royal Flush	| 4	| 0.00%	 |  649,739 to 1 |
 | Straight Flush	| 40	| 0.00%	 |  72,192 to 1 |
 | Four-of-a-Kind	| 624	| 0.02%	 |  4,165 to 1 |
